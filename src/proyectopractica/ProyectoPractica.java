@@ -9,7 +9,7 @@ package proyectopractica;
  *
  * @author ldurider
  */
-public class ProyectoPractica {
+public class Main {
 
     /**
      * @param args the command line arguments
